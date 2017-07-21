@@ -1,2 +1,0 @@
-# diabeteens
-Sistema de administração
